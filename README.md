@@ -1,4 +1,4 @@
-<img align="center" height="150em" src="https://github.com/Feruaro/Pan-Academy-Desafio-1/blob/main/Imagem/logo_gama.jpg"/>
+<img align="right" height="150em" src="https://github.com/Feruaro/Pan-Academy-Desafio-1/blob/main/Imagem/logo_gama.jpg"/>
 
 # Desafio 1 - Desafio do Programador
 
