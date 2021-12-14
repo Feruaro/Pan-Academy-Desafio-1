@@ -1,10 +1,6 @@
 <img align="right" height="150em" src="https://github.com/Feruaro/Pan-Academy-Desafio-1/blob/main/Imagem/logo_gama.jpg"/>
 
-# Desafio 1 - Desafio do Programador
-
-### 🚀 Turma 1:
-
--------------
+# Desafio 1 - Desafio do Programador 🚀 :
 
 * Vamos criar nosso primeiro projeto, já pensando em algo real. Algo que utilizamos muito no nosso dia a dia. Faremos uma Loja virtual com Carrinho de Compras!!! o /
 
