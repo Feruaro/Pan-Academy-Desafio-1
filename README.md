@@ -1,8 +1,8 @@
 # Desafio 1 - Desafio do Programador Turma 1
 
-<img alight="center" src="https://github.com/Feruaro/Pan-Academy-Desafio-1/blob/main/Imagem/logo_pan.jpg"/>
+<img align="center" src="https://github.com/Feruaro/Pan-Academy-Desafio-1/blob/main/Imagem/logo_pan.jpg"/>
 
-<img alight="center" src="https://github.com/Feruaro/Pan-Academy-Desafio-1/blob/main/Imagem/logo_gama.jpg"/>
+<img align="center" src="https://github.com/Feruaro/Pan-Academy-Desafio-1/blob/main/Imagem/logo_gama.jpg"/>
 
 ### 🚀 Turma 1:
 
